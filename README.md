@@ -1,4 +1,4 @@
-# AWS---LLM-
+# AWS---LLM
 # 🚀 Builders Skill Sprint - Strands SDK + Ollama
 
 A collection of beginner-friendly AI Agent projects built using **Strands SDK**, **Ollama**, **Llama 3.2:3B**, **Mem0**, **FAISS**, and **MCP**.
